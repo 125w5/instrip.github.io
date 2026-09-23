@@ -1,0 +1,67 @@
+[
+  {
+    "placeId": "xuanwu",
+    "localReference": "artifacts/product-collectibles/references/xuanwu.jpg",
+    "sourceFile": "app/src/main/assets/places/xuanwu.jpg",
+    "sourceTitle": "File:Xuanwu Lake at dawn.jpg",
+    "attribution": "A Chinese user / CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake_at_dawn.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceImageUrl": null,
+    "sourceModification": "Resized JPEG; app displays with crop.",
+    "referenceModification": "Unmodified copy; local generation reference only.",
+    "sha256": "62c5231fd78081bf85f10dfb81bd8232b743d96890636317ecb6ebc48ab47f1c"
+  },
+  {
+    "placeId": "fuzimiao",
+    "localReference": "artifacts/product-collectibles/references/fuzimiao.jpg",
+    "sourceFile": "app/src/main/assets/places/fuzimiao.jpg",
+    "sourceTitle": "File:Nanjing FuziMiao DaZhaobi3.jpg",
+    "attribution": "Kenneth Lu from Sunnyvale, CA / CC BY 2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nanjing_FuziMiao_DaZhaobi3.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceImageUrl": null,
+    "sourceModification": "Resized JPEG; app displays with crop.",
+    "referenceModification": "Unmodified copy; local generation reference only.",
+    "sha256": "bb1ab936eaad3f3b1eac00e6e0fa7707ba174d6d9d0b6d6b050b11abd98cf12c"
+  },
+  {
+    "placeId": "laomendong",
+    "localReference": "artifacts/product-collectibles/references/laomendong.jpg",
+    "sourceFile": "app/src/main/assets/places/laomendong.jpg",
+    "sourceTitle": "File:Laomendong, Nanjing.jpg",
+    "attribution": "钉钉 / CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Laomendong,_Nanjing.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Laomendong%2C_Nanjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourceModification": "Resized JPEG; app displays with crop.",
+    "referenceModification": "Unmodified copy; local generation reference only.",
+    "sha256": "9abed77cf98c612840ca0438534b1faa5916dc75a95d6cbb7834e7d0362f242c"
+  },
+  {
+    "placeId": "zhongshan",
+    "localReference": "artifacts/product-collectibles/references/zhongshan.jpg",
+    "sourceFile": "app/src/main/assets/places/zhongshan.jpg",
+    "sourceTitle": "File:Sun Yat-sen Mausoleum, August 2016.jpg",
+    "attribution": "Jason Zhang / CC0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_Mausoleum,_August_2016.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sun_Yat-sen_Mausoleum%2C_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "sourceModification": "Resized JPEG; app displays with crop.",
+    "referenceModification": "Unmodified copy; local generation reference only.",
+    "sha256": "fbf53b7865b870c8317413b1c1b2cbb6449f98f09645b28bdbdf50adb5ae2aa3"
+  },
+  {
+    "placeId": "nanjing-museum",
+    "localReference": "artifacts/product-collectibles/references/nanjing-museum.jpg",
+    "sourceFile": "app/src/main/assets/places/nanjing-museum.jpg",
+    "sourceTitle": "File:Nanjing Museum - main building.jpg",
+    "attribution": "維基小霸王 / CC BY-SA 4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nanjing_Museum_-_main_building.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceImageUrl": null,
+    "sourceModification": "Resized JPEG; app displays with crop.",
+    "referenceModification": "Unmodified copy; local generation reference only.",
+    "sha256": "2a94ad61c13f4284c667d129c954f6456248fa52eb44aaa4b316491475df8b8f"
+  }
+]

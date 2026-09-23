@@ -1,0 +1,226 @@
+{
+  "xuanwu": {
+    "photoUrl": "places/xuanwu.jpg",
+    "photoCredit": "A Chinese user / CC BY-SA 4.0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake_at_dawn.jpg",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "title": "File:Xuanwu Lake at dawn.jpg",
+    "modification": "Resized JPEG; app displays with crop.",
+    "photoGallery": [
+      {
+        "photoUrl": "places/xuanwu-03.jpg",
+        "photoCredit": "钉钉 / CC BY-SA 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake_Park,_Nanjing_8.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Xuanwu Lake Park, Nanjing 8.jpg",
+        "sourceSha1": "366b0a205b48bdc54b4eb0c09a117372f1e7b4da",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Xuanwu_Lake_Park%2C_Nanjing_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 960,
+        "sha256": "168fe862767c0c7da43a492bb62300eddc8b0b0ddb7d3506ea31cdfbb32937e6",
+        "alt": "玄武湖公园湖岸景色"
+      },
+      {
+        "photoUrl": "places/xuanwu-02.jpg",
+        "photoCredit": "钉钉 / CC BY-SA 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake,_Nanjing.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Xuanwu Lake, Nanjing.jpg",
+        "sourceSha1": "5aa7902afe836b4cc56cbc797317ca909b5cebdd",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Xuanwu_Lake%2C_Nanjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 960,
+        "sha256": "184bb0a03874bb80811c0680b46de013aa40221844ad1db01c51565bd2fe6acf",
+        "alt": "玄武湖湖面与城市天际线"
+      }
+    ]
+  },
+  "fuzimiao": {
+    "photoUrl": "places/fuzimiao.jpg",
+    "photoCredit": "Kenneth Lu from Sunnyvale, CA / CC BY 2.0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Nanjing_FuziMiao_DaZhaobi3.jpg",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "title": "File:Nanjing FuziMiao DaZhaobi3.jpg",
+    "modification": "Resized JPEG; app displays with crop.",
+    "photoGallery": [
+      {
+        "photoUrl": "places/fuzimiao-02.jpg",
+        "photoCredit": "纳瓦拉的亨利 / CC BY-SA 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Night_View_of_Nanjing_Fuzimiao.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Night View of Nanjing Fuzimiao.jpg",
+        "sourceSha1": "fba24200980812998335d0b094f9c89ea7093e3e",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Night_View_of_Nanjing_Fuzimiao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 1280,
+        "sha256": "ddf45d14a2dbf11dc30bce51b5061d90ed9b27a0eece5a80c197439e15d293c7",
+        "alt": "南京夫子庙夜景"
+      },
+      {
+        "photoUrl": "places/fuzimiao-03.jpg",
+        "photoCredit": "Windmemories / CC BY-SA 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:20240118_Juxianlou_at_Fuzi_Miao.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:20240118 Juxianlou at Fuzi Miao.jpg",
+        "sourceSha1": "4ef629e4866aa8ff6fb98dfcedd15bb34f94c2b7",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/20240118_Juxianlou_at_Fuzi_Miao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 853,
+        "sha256": "e7a18dd90b48fd914d0ebc14706effce221a132b2c3ee5ff0ba4da044061753b",
+        "alt": "夫子庙聚贤楼夜间街景"
+      }
+    ]
+  },
+  "mingxiaoling": {
+    "photoUrl": "places/mingxiaoling.jpg",
+    "photoCredit": "xiquinhosilva / CC BY 2.0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Ming_Xiaoling_Mausoleum_(54438270585).jpg",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "title": "File:Ming Xiaoling Mausoleum (54438270585).jpg",
+    "modification": "Resized JPEG; app displays with crop.",
+    "photoGallery": [
+      {
+        "photoUrl": "places/mingxiaoling-02.jpg",
+        "photoCredit": "钉钉 / CC BY-SA 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Stone_Elephant_Road_(Ming_Xiaoling)_2.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Stone Elephant Road (Ming Xiaoling) 2.jpg",
+        "sourceSha1": "b59764241ea6e500e1636eeec70612ec6372008c",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Stone_Elephant_Road_%28Ming_Xiaoling%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 960,
+        "sha256": "e1b948573ecab5065d097123885c6e2e275636615c8a35d554c6ed23de347125",
+        "alt": "明孝陵石象路"
+      },
+      {
+        "photoUrl": "places/mingxiaoling-03.jpg",
+        "photoCredit": "xiquinhosilva / CC BY 2.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Ming_Xiaoling_Mausoleum_(54438090344).jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "title": "File:Ming Xiaoling Mausoleum (54438090344).jpg",
+        "sourceSha1": "98b0d66f2b48cc96f1f82d96d8a30af9029fa772",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ming_Xiaoling_Mausoleum_%2854438090344%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 853,
+        "sha256": "fd60064edeb2bea50a0b312343e548948c8ac43349fa52f1103a4517755cb2e2",
+        "alt": "南京明孝陵神道景色"
+      }
+    ]
+  },
+  "nanjing-museum": {
+    "photoUrl": "places/nanjing-museum.jpg",
+    "photoCredit": "維基小霸王 / CC BY-SA 4.0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Nanjing_Museum_-_main_building.jpg",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "title": "File:Nanjing Museum - main building.jpg",
+    "modification": "Resized JPEG; app displays with crop.",
+    "photoGallery": [
+      {
+        "photoUrl": "places/nanjing-museum-02.jpg",
+        "photoCredit": "Gary Todd from Xinzheng, China / CC0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Nanjing_Museum_Garden_(10152019774).jpg",
+        "photoLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "title": "File:Nanjing Museum Garden (10152019774).jpg",
+        "sourceSha1": "4e9700311acc8c60561b6b5cf6605c666cd51824",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Nanjing_Museum_Garden_%2810152019774%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 853,
+        "sha256": "8574d4a23c3c87bb8cd0b5bd94fba5db74f38ea29cff335bdd3a641048c14344",
+        "alt": "南京博物院庭园"
+      },
+      {
+        "photoUrl": "places/nanjing-museum-03.jpg",
+        "photoCredit": "Ecelan / CC BY-SA 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Nanjing_Museum_-_Pottery_animals.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "title": "File:Nanjing Museum - Pottery animals.jpg",
+        "sourceSha1": "4fe9f14ba1951bacc0c84937543531434ea5c9ee",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nanjing_Museum_-_Pottery_animals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1280,
+        "height": 720,
+        "sha256": "456a9357737c83fdb0d9f2f5af8ff1455f64ac7e96130ad2e5dc4e31930c5be8",
+        "alt": "南京博物院展厅中的陶塑动物"
+      }
+    ]
+  },
+  "nanda": {
+    "photoUrl": "places/nanda.jpg",
+    "photoCredit": "FukaiNashi / CC BY-SA 4.0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Nanjing_University,_Gulou_Campus.jpg",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "title": "File:Nanjing University, Gulou Campus.jpg",
+    "sourceSha1": "f350e995b2c5cc189beb8e44184325f304725162",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Nanjing_University%2C_Gulou_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "modification": "Resized JPEG; app displays with crop.",
+    "width": 960,
+    "height": 1291,
+    "sha256": "e3e408e832a84315558b06a834afcefacbd6fac57c52a2a4673291a7d95c191f",
+    "alt": "南京大学鼓楼校区林荫道路"
+  },
+  "laomendong": {
+    "photoUrl": "places/laomendong.jpg",
+    "photoCredit": "钉钉 / CC BY-SA 4.0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Laomendong,_Nanjing.jpg",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "title": "File:Laomendong, Nanjing.jpg",
+    "sourceSha1": "459a6def5888d5737fa5e212b28beab1094fd872",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Laomendong%2C_Nanjing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "modification": "Resized JPEG; app displays with crop.",
+    "width": 1280,
+    "height": 960,
+    "sha256": "9abed77cf98c612840ca0438534b1faa5916dc75a95d6cbb7834e7d0362f242c",
+    "alt": "南京老门东街区"
+  },
+  "jiming": {
+    "photoUrl": "places/jiming.jpg",
+    "photoCredit": "Inhorw / CC BY-SA 2.5",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Jiming_Temple.JPG",
+    "photoLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "title": "File:Jiming Temple.JPG",
+    "sourceSha1": "ed6b32e53a6a9284395dd76ffa0724a1c88a5175",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jiming_Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "modification": "Resized JPEG; app displays with crop.",
+    "width": 960,
+    "height": 720,
+    "sha256": "265aa5b08f0321325193c1d4cf93c13868fa85ab8e8add91e38e82e02f63499f",
+    "alt": "鸡鸣寺塔、寺院与南京城市景观"
+  },
+  "zhongshan": {
+    "photoUrl": "places/zhongshan.jpg",
+    "photoCredit": "Jason Zhang / CC0",
+    "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_Mausoleum,_August_2016.jpg",
+    "photoLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "title": "File:Sun Yat-sen Mausoleum, August 2016.jpg",
+    "sourceSha1": "b32363be4092df18975cc1d3d18d9ab203571594",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sun_Yat-sen_Mausoleum%2C_August_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "modification": "Resized JPEG; app displays with crop.",
+    "width": 1280,
+    "height": 720,
+    "sha256": "fbf53b7865b870c8317413b1c1b2cbb6449f98f09645b28bdbdf50adb5ae2aa3",
+    "alt": "中山陵祭堂前的台阶与蓝瓦建筑",
+    "photoGallery": [
+      {
+        "photoUrl": "places/zhongshan-02.jpg",
+        "photoCredit": "Chainwit. / CC BY 4.0",
+        "photoCreditUrl": "https://commons.wikimedia.org/wiki/File:China-Nanjing_(2024)_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg",
+        "photoLicenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "title": "File:China-Nanjing (2024) Mausoleum of Sun Yat Sen 中山陵 - img 08.jpg",
+        "sourceSha1": "eb459c6631fdd8418a29922cd134c6d4d4f349ec",
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/China-Nanjing_%282024%29_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "modification": "Resized JPEG; app displays with crop.",
+        "width": 1050,
+        "height": 1400,
+        "sha256": "633afe317afd55185da596b673263971c0e8473e67ab8bc208edeeac56dae23b",
+        "alt": "中山陵石雕纹样与林荫步道"
+      }
+    ]
+  }
+}

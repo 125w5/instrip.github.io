@@ -1,0 +1,657 @@
+{
+  "algorithm": "instrip-illustrated-contour-1",
+  "expected_count": 8,
+  "completed_count": 8,
+  "all_models_distinct": true,
+  "all_geometry_checks_passed": true,
+  "items": [
+    {
+      "id": "company-photo",
+      "title": "把笑容留下",
+      "kind": "magnet",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 74.0,
+        "board_height": 68.48183556405354,
+        "board_thickness": 3.2,
+        "minimum_board_thickness": 2.8600000000000003,
+        "assembly_extents": [
+          74.0,
+          68.48183556405354,
+          4.21
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": null,
+      "geometry": {
+        "board_vertices": 14952,
+        "board_triangles": 29900,
+        "board_volume_mm3": 11812.329253543283,
+        "hardware": [
+          {
+            "name": "rear-magnetic-pad-1",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              14.2,
+              14.2,
+              1.0
+            ]
+          },
+          {
+            "name": "rear-magnetic-pad-2",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              14.2,
+              14.2,
+              1.0
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "company-photo-front.png": "a40b7094a4c5c48989c4ce0f6e7560ca804eee2111f672f18a1bea768782d25b",
+        "company-photo.glb": "44d06f12c6c5816ba3192a2a316da92da7719eff69d9af48a74a77ef8150c0bf",
+        "company-photo-cutout.png": "3ca177b5e157db72a138059a74ea0eda9143af0c81fe79f3bc9ffd96d09f774f"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "phone-help",
+      "title": "把世界连接",
+      "kind": "keychain",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 58.0,
+        "board_height": 65.39486203615604,
+        "board_thickness": 3.0,
+        "minimum_board_thickness": 2.66,
+        "assembly_extents": [
+          58.0,
+          89.16918553758325,
+          11.9
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": {
+        "diameter_mm": 4.8,
+        "minimum_wall_mm": 2.881100156952835,
+        "center_mm": [
+          -8.829686013320648,
+          27.371754519505235
+        ],
+        "through": true
+      },
+      "geometry": {
+        "board_vertices": 29868,
+        "board_triangles": 59736,
+        "board_volume_mm3": 7909.816472047253,
+        "hardware": [
+          {
+            "name": "silver-connector",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 1728,
+            "extents_mm": [
+              1.3000000000000007,
+              11.900000000000002,
+              11.9
+            ]
+          },
+          {
+            "name": "silver-key-ring",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 2304,
+            "extents_mm": [
+              20.9,
+              20.900000000000006,
+              1.7000000000000002
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "phone-help-front.png": "b4a0bba4ff06ddb2b27b38004fe15afa0c9b7b721e6e6182dc756d26541d3717",
+        "phone-help.glb": "1e0254dcb11caeb228c9e952001ac8c1a5f856865a4eb7c2352ca8c61b23b80d",
+        "phone-help-cutout.png": "054498ac283953ade2c359a8d5d5941a93c09c20052f3fb6e0d4f7c89218bf82"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "warm-company",
+      "title": "陪伴的温度",
+      "kind": "magnet",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 74.0,
+        "board_height": 68.48183556405354,
+        "board_thickness": 3.2,
+        "minimum_board_thickness": 2.8600000000000003,
+        "assembly_extents": [
+          74.0,
+          68.48183556405354,
+          4.21
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": null,
+      "geometry": {
+        "board_vertices": 14952,
+        "board_triangles": 29900,
+        "board_volume_mm3": 11899.054336580526,
+        "hardware": [
+          {
+            "name": "rear-magnetic-pad-1",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              14.2,
+              14.2,
+              1.0
+            ]
+          },
+          {
+            "name": "rear-magnetic-pad-2",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              14.2,
+              14.2,
+              1.0
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "warm-company-front.png": "258be1a973855585e5e45b6e94c0bb56dc277c9b27e9e22c273784dc907890a4",
+        "warm-company.glb": "1e25d31b7a3b601f1e518de21d9d6e5751578ae6794e4487092e2b1f8f49952a",
+        "warm-company-cutout.png": "2f40c2882e18d1ba173ceefaa0f670dcd6a78d39d6bd5f3ed35022e2d1ef78c8"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "xuanwu-walk",
+      "title": "玄武湖慢行",
+      "kind": "keychain",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 58.0,
+        "board_height": 50.06083650190114,
+        "board_thickness": 3.0,
+        "minimum_board_thickness": 2.66,
+        "assembly_extents": [
+          58.0,
+          73.84213688212971,
+          11.9
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": {
+        "diameter_mm": 4.8,
+        "minimum_wall_mm": 2.901019994227218,
+        "center_mm": [
+          -4.079847908745247,
+          19.711718631178705
+        ],
+        "through": true
+      },
+      "geometry": {
+        "board_vertices": 25774,
+        "board_triangles": 51548,
+        "board_volume_mm3": 6079.746130926349,
+        "hardware": [
+          {
+            "name": "silver-connector",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 1728,
+            "extents_mm": [
+              1.3000000000000007,
+              11.899999999999999,
+              11.9
+            ]
+          },
+          {
+            "name": "silver-key-ring",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 2304,
+            "extents_mm": [
+              20.9,
+              20.899999999999995,
+              1.7000000000000002
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "xuanwu-walk-front.png": "3f212661ed0ce9a165f372e3c970556034c68c3de6ae288afc24178332ea8e99",
+        "xuanwu-walk.glb": "71bd5085f25da6b410a0a67cb688167720db52491da8c8c64c625c1f9910da92",
+        "xuanwu-walk-cutout.png": "ba52b637bb8f4ca6c0497212b26821e747572fb85f72d6482295d851de06ba89"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "qinhuai-lights",
+      "title": "秦淮灯影",
+      "kind": "magnet",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 74.0,
+        "board_height": 33.604206500956025,
+        "board_thickness": 3.2,
+        "minimum_board_thickness": 2.8600000000000003,
+        "assembly_extents": [
+          74.0,
+          33.604206500956025,
+          4.21
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": null,
+      "geometry": {
+        "board_vertices": 7654,
+        "board_triangles": 15304,
+        "board_volume_mm3": 6436.0571723955845,
+        "hardware": [
+          {
+            "name": "rear-magnetic-pad-1",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              8.065009560229445,
+              8.065009560229445,
+              1.0
+            ]
+          },
+          {
+            "name": "rear-magnetic-pad-2",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              8.065009560229445,
+              8.065009560229445,
+              1.0
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "qinhuai-lights-front.png": "eb814be00785839bd6a2354c35c21a73a14754023a7d5ed280a9433dafd2329d",
+        "qinhuai-lights.glb": "3c26f998ac5bbe1aa841af53d43c9437ea21c694275eef18a8b57a88f43f97e5",
+        "qinhuai-lights-cutout.png": "bc83e40c252b7905b9f188fdfb655d5907459f6209d37d9cccd63180312a4387"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "laomendong-street",
+      "title": "老门东巷遇",
+      "kind": "keychain",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 58.0,
+        "board_height": 83.92424242424242,
+        "board_thickness": 3.0,
+        "minimum_board_thickness": 2.66,
+        "assembly_extents": [
+          58.0,
+          107.7150101010099,
+          11.9
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": {
+        "diameter_mm": 4.8,
+        "minimum_wall_mm": 2.877797188010684,
+        "center_mm": [
+          -7.396464646464647,
+          36.65288888888889
+        ],
+        "through": true
+      },
+      "geometry": {
+        "board_vertices": 34850,
+        "board_triangles": 69700,
+        "board_volume_mm3": 10879.228383732829,
+        "hardware": [
+          {
+            "name": "silver-connector",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 1728,
+            "extents_mm": [
+              1.3000000000000007,
+              11.900000000000006,
+              11.9
+            ]
+          },
+          {
+            "name": "silver-key-ring",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 2304,
+            "extents_mm": [
+              20.9,
+              20.89999999999999,
+              1.7000000000000002
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "laomendong-street-front.png": "2980eb78d249357d2d35c5eff2c3838954ef352c6ce0372b4eb6906747ffb72b",
+        "laomendong-street.glb": "a675d078add71b9aaa379f706e6bd2b938e741d1a5977dcbc4446427bed27983",
+        "laomendong-street-cutout.png": "15fd710485d7814f8dbc72cec2694ba478272ab3940f52eaebbca0d2796fc095"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "zhongshan-green",
+      "title": "钟山绿意",
+      "kind": "magnet",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 74.0,
+        "board_height": 53.27151051625239,
+        "board_thickness": 3.2,
+        "minimum_board_thickness": 2.8600000000000003,
+        "assembly_extents": [
+          74.0,
+          53.27151051625239,
+          4.21
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": null,
+      "geometry": {
+        "board_vertices": 11748,
+        "board_triangles": 23492,
+        "board_volume_mm3": 9908.015169970395,
+        "hardware": [
+          {
+            "name": "rear-magnetic-pad-1",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              12.785162523900574,
+              12.785162523900574,
+              1.0
+            ]
+          },
+          {
+            "name": "rear-magnetic-pad-2",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 256,
+            "extents_mm": [
+              12.785162523900574,
+              12.785162523900574,
+              1.0
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "zhongshan-green-front.png": "954059928b3137efc447679ee69a8d26728abfb2b8b558d7ec3bacde866fe29f",
+        "zhongshan-green.glb": "cd9386d912de024cb93a40893977cbc95ad2e9423b56d0442826db8477cd5374",
+        "zhongshan-green-cutout.png": "5b0bee2bf7f547e5cbc4c72a231acdcaab9ecec35f45cbb5d5e11a5f8f19f0ad"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    },
+    {
+      "id": "nanjing-museum",
+      "title": "博物院一日",
+      "kind": "keychain",
+      "algorithm": "instrip-illustrated-contour-1",
+      "model_type": "文创设计展示模型",
+      "construction": "Independent illustration silhouette with a closed flat back, softly beveled rim and front UV artwork. People remain a flat illustration; this is not a cloud reconstruction or a scan.",
+      "outline_source": "edge_connected_white_background",
+      "dimensions": {
+        "units": "mm",
+        "board_width": 58.0,
+        "board_height": 27.842205323193916,
+        "board_thickness": 3.0,
+        "minimum_board_thickness": 2.66,
+        "assembly_extents": [
+          58.0,
+          51.6235057034221,
+          11.9
+        ],
+        "glb_units": "m",
+        "front": "+Z"
+      },
+      "hole": {
+        "diameter_mm": 4.8,
+        "minimum_wall_mm": 2.9105419842229634,
+        "center_mm": [
+          0.0,
+          8.602403041825093
+        ],
+        "through": true
+      },
+      "geometry": {
+        "board_vertices": 19720,
+        "board_triangles": 39440,
+        "board_volume_mm3": 2985.352977682396,
+        "hardware": [
+          {
+            "name": "silver-connector",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 1728,
+            "extents_mm": [
+              1.3000000000000007,
+              11.900000000000002,
+              11.9
+            ]
+          },
+          {
+            "name": "silver-key-ring",
+            "watertight": true,
+            "positive_volume": true,
+            "triangles": 2304,
+            "extents_mm": [
+              20.9,
+              20.9,
+              1.7000000000000002
+            ]
+          }
+        ]
+      },
+      "checks": {
+        "finite": true,
+        "watertight_board": true,
+        "winding_consistent": true,
+        "positive_volume": true,
+        "one_board_component": true,
+        "flat_back": true,
+        "width_matches": true,
+        "hole_through": true,
+        "hole_wall_at_least_2mm": true,
+        "magnet_has_no_hole": true,
+        "positive_board_thickness": true,
+        "has_distinct_outline": true,
+        "hardware_watertight": true,
+        "passed": true,
+        "glb_geometry_count": 5,
+        "glb_geometry_reload_ok": true
+      },
+      "files": {
+        "nanjing-museum-front.png": "49b66e3800cced73acfa118bcaaec05beffe65abb4c591da28990b188f8d3f57",
+        "nanjing-museum.glb": "06d848933e96f815369388cc190f4bfb2eb4c89f68dd0502ee7f677eed79dd26",
+        "nanjing-museum-cutout.png": "0e1e018e2f1a71a8c1af88099b875caa92f0fa2c3f9c86a7ef8b25dcb469603a"
+      },
+      "manufacturing_note": "设计展示资源；实体制作需加工方核对材料、切片与打样。"
+    }
+  ]
+}

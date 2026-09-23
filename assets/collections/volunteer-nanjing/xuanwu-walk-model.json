@@ -1,0 +1,86 @@
+{
+  "id": "xuanwu-walk",
+  "title": "玄武湖慢行",
+  "kind": "keychain",
+  "algorithm": "instrip-lux3d-relief-1",
+  "source_task_id": "3718377",
+  "source_mesh_sha256": "5bc151c0390398eef35299ce36d135c60d23853cf2dc2272ccf13f3e3912dfa5",
+  "construction": "Lux3D generated geometry projected through the project craft relief pipeline; local silver keyring or rear magnet pads added for product display.",
+  "dimensions": {
+    "units": "mm",
+    "board_width": 58.0,
+    "board_height": 47.300970873786405,
+    "assembly_extents": [
+      57.999998331069946,
+      73.35397301252523,
+      14.3
+    ],
+    "glb_units": "m",
+    "front": "+Z"
+  },
+  "hole": {
+    "center_mm": [
+      17.91383495145631,
+      5.446998446601942
+    ],
+    "origin": "top left",
+    "diameter_mm": 6.032,
+    "minimum_wall_mm": 2.430998446601942,
+    "through": true,
+    "scales_with_width": true
+  },
+  "geometry": {
+    "board_triangles": 127836,
+    "hardware": [
+      {
+        "name": "silver-connector",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 1728
+      },
+      {
+        "name": "silver-key-ring",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 2304
+      }
+    ]
+  },
+  "checks": {
+    "algorithm": "relief-contour-4-duplex",
+    "finite": true,
+    "triangles": 127836,
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "one_component": true,
+    "flat_back": true,
+    "portrait_enabled": false,
+    "portrait_inside_outline": true,
+    "portrait_flat": true,
+    "width_matches": true,
+    "height_matches": true,
+    "keychain_hole_through": true,
+    "keychain_wall_safe": true,
+    "hole_diameter_mm": 6.032,
+    "hole_minimum_wall_mm": 2.430998446601942,
+    "minimum_thickness_mm": 2.8,
+    "self_intersection_check": "single-valued heightfield; disjoint XY cells; positive top/back separation",
+    "requires_slicer_and_physical_proof": true,
+    "warnings": [
+      "需加工方核对细节间距、切片及实体打样；预览颜色不等于打印机颜色。"
+    ],
+    "outline_source": "raw_mesh_front_mask",
+    "preview_mesh_coverage": 0.9872303299492385,
+    "preview_interior_coverage": 0.9995685005393743,
+    "preview_edge_tolerance_mm": 0.10558252427184467,
+    "preview_outline_matches": true,
+    "preview_transparent_background": true,
+    "passed": true,
+    "hardware_watertight": true,
+    "glb_geometry_reload_ok": true
+  },
+  "files": {
+    "xuanwu-walk.glb": "51f559956accf62a3c46cb99da18c8f33d9a8f0c2f1e23aea7a3974d0c0b4c51"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "phone-help",
+  "title": "把世界连接",
+  "kind": "keychain",
+  "algorithm": "instrip-lux3d-relief-1",
+  "source_task_id": "3718307",
+  "source_mesh_sha256": "4844108715ad8188b3e249c7e57ad2864a6990d2583db3c23a81ff44ae0cc7e9",
+  "construction": "Lux3D generated geometry projected through the project craft relief pipeline; local silver keyring or rear magnet pads added for product display.",
+  "dimensions": {
+    "units": "mm",
+    "board_width": 58.0,
+    "board_height": 64.86021505376344,
+    "assembly_extents": [
+      57.999998331069946,
+      90.96417989109796,
+      14.3
+    ],
+    "glb_units": "m",
+    "front": "+Z"
+  },
+  "hole": {
+    "center_mm": [
+      20.548238678150426,
+      5.396036272401435
+    ],
+    "origin": "top left",
+    "diameter_mm": 6.032,
+    "minimum_wall_mm": 2.3800362724014352,
+    "through": true,
+    "scales_with_width": true
+  },
+  "geometry": {
+    "board_triangles": 159392,
+    "hardware": [
+      {
+        "name": "silver-connector",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 1728
+      },
+      {
+        "name": "silver-key-ring",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 2304
+      }
+    ]
+  },
+  "checks": {
+    "algorithm": "relief-contour-4-duplex",
+    "finite": true,
+    "triangles": 159392,
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "one_component": true,
+    "flat_back": true,
+    "portrait_enabled": false,
+    "portrait_inside_outline": true,
+    "portrait_flat": true,
+    "width_matches": true,
+    "height_matches": true,
+    "keychain_hole_through": true,
+    "keychain_wall_safe": true,
+    "hole_diameter_mm": 6.032,
+    "hole_minimum_wall_mm": 2.3800362724014352,
+    "minimum_thickness_mm": 2.8,
+    "self_intersection_check": "single-valued heightfield; disjoint XY cells; positive top/back separation",
+    "requires_slicer_and_physical_proof": true,
+    "warnings": [
+      "需加工方核对细节间距、切片及实体打样；预览颜色不等于打印机颜色。"
+    ],
+    "outline_source": "raw_mesh_front_mask",
+    "preview_mesh_coverage": 0.9892530487804878,
+    "preview_interior_coverage": 0.9997850791177498,
+    "preview_edge_tolerance_mm": 0.15591397849462366,
+    "preview_outline_matches": true,
+    "preview_transparent_background": true,
+    "passed": true,
+    "hardware_watertight": true,
+    "glb_geometry_reload_ok": true
+  },
+  "files": {
+    "phone-help.glb": "d6c5832f6488514eed24dabd58bc6f0d37deb782d3c54fe975449cd24b8077d4"
+  }
+}

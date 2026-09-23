@@ -1,0 +1,150 @@
+{
+  "count": 12,
+  "source": "本地任务完成记录；只公开任务编号和建模参数",
+  "items": [
+    {
+      "id": "company-photo",
+      "title": "把笑容留下",
+      "product": "magnet",
+      "taskId": "3718305",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "b96574b9ac6ab414fe9951ec7d5c5ffdea3348899825a794d0ffb8b5bfb400f0",
+      "output": "/assets/collections/volunteer-nanjing/company-photo.glb"
+    },
+    {
+      "id": "phone-help",
+      "title": "把世界连接",
+      "product": "keychain",
+      "taskId": "3718307",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "4844108715ad8188b3e249c7e57ad2864a6990d2583db3c23a81ff44ae0cc7e9",
+      "output": "/assets/collections/volunteer-nanjing/phone-help.glb"
+    },
+    {
+      "id": "warm-company",
+      "title": "陪伴的温度",
+      "product": "magnet",
+      "taskId": "3718375",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "58572ecc203ac26ce4f3c191baac325f4a595da5265f12695ca08d8cb1c51009",
+      "output": "/assets/collections/volunteer-nanjing/warm-company.glb"
+    },
+    {
+      "id": "xuanwu-walk",
+      "title": "玄武湖慢行",
+      "product": "keychain",
+      "taskId": "3718377",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "5bc151c0390398eef35299ce36d135c60d23853cf2dc2272ccf13f3e3912dfa5",
+      "output": "/assets/collections/volunteer-nanjing/xuanwu-walk.glb"
+    },
+    {
+      "id": "qinhuai-lights",
+      "title": "秦淮灯影",
+      "product": "magnet",
+      "taskId": "3718387",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "341e83535945871f39ea44848e740c71fe3475fb4476627ec34851c8ad233bba",
+      "output": "/assets/collections/volunteer-nanjing/qinhuai-lights.glb"
+    },
+    {
+      "id": "laomendong-street",
+      "title": "老门东巷遇",
+      "product": "keychain",
+      "taskId": "3718390",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "b438fc1689c19dabd1f329bbe12ee68feaff6633cb4e3885ebe739848ea74f1e",
+      "output": "/assets/collections/volunteer-nanjing/laomendong-street.glb"
+    },
+    {
+      "id": "zhongshan-green",
+      "title": "钟山绿意",
+      "product": "magnet",
+      "taskId": "3718400",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "4bdaca5b8b95985920f4f1a42d04cbf77ae1048f1d9d7d4341ea46f13d20cf0b",
+      "output": "/assets/collections/volunteer-nanjing/zhongshan-green.glb"
+    },
+    {
+      "id": "nanjing-museum",
+      "title": "博物院一日",
+      "product": "keychain",
+      "taskId": "3718408",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "2c7e6c411b99d82912167822cb3c687cccdf7b4511600d8e81f6685650e4d369",
+      "output": "/assets/collections/volunteer-nanjing/nanjing-museum.glb"
+    },
+    {
+      "id": "volunteer-lake",
+      "title": "湖畔有你",
+      "product": "keychain",
+      "taskId": "3718426",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "a26ee09d5bc98029c179c48fd33f60ee5659f5b7cb5dc6b52e4302b73e7986a0",
+      "output": "/assets/collections/volunteer-nanjing/volunteer-lake.glb"
+    },
+    {
+      "id": "mingxiaoling",
+      "title": "明孝陵石象",
+      "product": "magnet",
+      "taskId": "3718834",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "aa619d9cee20b9cf34b8e442e679b4e98c8e87dbb4c2ab8f3b34d800a6947c37",
+      "output": "/assets/collections/volunteer-nanjing/mingxiaoling.glb"
+    },
+    {
+      "id": "jiming-temple",
+      "title": "鸡鸣寺望城",
+      "product": "keychain",
+      "taskId": "3718843",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "28225afd99041f5e97fbc53dfa7186c74699834a2770ee947801ed8937b67187",
+      "output": "/assets/collections/volunteer-nanjing/jiming-temple.glb"
+    },
+    {
+      "id": "nanda-gulou",
+      "title": "南大林荫",
+      "product": "magnet",
+      "taskId": "3718871",
+      "version": "G1-Turbo",
+      "requestedFaceCount": 100000,
+      "pbr": true,
+      "status": "downloaded",
+      "sourceMeshSha256": "8111aa62aeab07c3451a27e5c0860dd1dfb01cf57b31da8b9aecff1d5392ebab",
+      "output": "/assets/collections/volunteer-nanjing/nanda-gulou.glb"
+    }
+  ]
+}

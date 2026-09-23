@@ -1,0 +1,322 @@
+{
+  "schema": "instrip.original-photo-sources.v1",
+  "updatedAt": "2026-09-23",
+  "policy": {
+    "originalsAreNeverAiGenerated": true,
+    "missingOriginalBehavior": "保持原图层为空，显示原图暂未提供；禁止回退到designImage或frontImage",
+    "userProvidedPhotoAuthorization": "本轮用户明确要求原图展示；历史local-only说明已被当前授权更新",
+    "identityAndActivity": "照片仅作为创作原图展示，不推定人物姓名、健康状态或参加一起游项目"
+  },
+  "items": [
+    {
+      "id": "company-photo",
+      "title": "把笑容留下",
+      "originalImage": "/assets/collections/volunteer-nanjing/company-photo-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "user-supplied",
+      "sourceFile": "artifacts/product-collectibles/references/volunteer-photo-memory.png",
+      "sourcePage": null,
+      "author": "未标注（用户提供）",
+      "license": "用户在当前请求中明确同意作为原图展示；第三方版权不另行推定",
+      "licenseUrl": null,
+      "sourceSha256": "057fff767c9067374fac3c559e3716f9cf961edfae1633ea739d3f5cceb8937f",
+      "outputSha256": "e42cf171e8f8193b5d302ae2bbb8d02733e0f9b8ffa98b2ab21fbf010801780b",
+      "dimensions": [
+        1400,
+        1117
+      ],
+      "bytes": 252764,
+      "modification": "全画幅WebP转换，不裁剪、不修图、不移除水印。既有用户原图1400px副本保持原样。",
+      "watermarkPreserved": null,
+      "representsProjectActivity": false,
+      "caption": "用户提供原图 · 保留原始画面"
+    },
+    {
+      "id": "phone-help",
+      "title": "把世界连接",
+      "originalImage": "/assets/collections/volunteer-nanjing/phone-help-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "user-supplied",
+      "sourceFile": "artifacts/product-collectibles/references/volunteer-digital-companion.png",
+      "sourcePage": null,
+      "author": "未标注（用户提供）",
+      "license": "用户在当前请求中明确同意作为原图展示；第三方版权不另行推定",
+      "licenseUrl": null,
+      "sourceSha256": "4e515c26ea1ed1bbb698b6978fc694761839b9891d9646d09f0039d0990ca495",
+      "outputSha256": "6da7685abf61b3b27e73d1f4cb28030318e7b68893066a095513f45718646c6e",
+      "dimensions": [
+        1280,
+        892
+      ],
+      "bytes": 686950,
+      "modification": "全画幅WebP转换，不裁剪、不修图、不移除水印。无损转换，与参考PNG的RGB像素完全一致。",
+      "watermarkPreserved": true,
+      "representsProjectActivity": false,
+      "caption": "用户提供原图 · 保留原始画面"
+    },
+    {
+      "id": "warm-company",
+      "title": "陪伴的温度",
+      "originalImage": "/assets/collections/volunteer-nanjing/warm-company-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "user-supplied",
+      "sourceFile": "artifacts/product-collectibles/references/volunteer-hand-in-hand.png",
+      "sourcePage": null,
+      "author": "未标注（用户提供）",
+      "license": "用户在当前请求中明确同意作为原图展示；第三方版权不另行推定",
+      "licenseUrl": null,
+      "sourceSha256": "44eab9967e9834dedf230557301222c8c17661571213dbfc886a40dbfd90832c",
+      "outputSha256": "763f1047780b862faaba63bf98fa700e54148eb9f787465b67e983478ea30487",
+      "dimensions": [
+        1157,
+        945
+      ],
+      "bytes": 622312,
+      "modification": "全画幅WebP转换，不裁剪、不修图、不移除水印。无损转换，与参考PNG的RGB像素完全一致。",
+      "watermarkPreserved": null,
+      "representsProjectActivity": false,
+      "caption": "用户提供原图 · 保留原始画面"
+    },
+    {
+      "id": "xuanwu-walk",
+      "title": "玄武湖慢行",
+      "originalImage": "/assets/collections/volunteer-nanjing/xuanwu-walk-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / Android existing asset",
+      "sourceFile": "artifacts/product-collectibles/references/xuanwu.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake_at_dawn.jpg",
+      "author": "A Chinese user",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceSha256": "62c5231fd78081bf85f10dfb81bd8232b743d96890636317ecb6ebc48ab47f1c",
+      "outputSha256": "495a5675e6af1cd1210860c844d5bcd0529d71284035987b89fec16488dcabe5",
+      "dimensions": [
+        1280,
+        745
+      ],
+      "bytes": 129306,
+      "modification": "全画幅转换为WebP（quality 94），保留参考照片尺寸和构图；上游副本已缩放。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "qinhuai-lights",
+      "title": "秦淮灯影",
+      "originalImage": "/assets/collections/volunteer-nanjing/qinhuai-lights-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / Android existing asset",
+      "sourceFile": "artifacts/product-collectibles/references/fuzimiao.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nanjing_FuziMiao_DaZhaobi3.jpg",
+      "author": "Kenneth Lu from Sunnyvale, CA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceSha256": "bb1ab936eaad3f3b1eac00e6e0fa7707ba174d6d9d0b6d6b050b11abd98cf12c",
+      "outputSha256": "a9a2698cc9e44ba1e43938dc17c05d9671ae868bca0de941ddf5da2c04ebfd61",
+      "dimensions": [
+        1024,
+        683
+      ],
+      "bytes": 239940,
+      "modification": "全画幅转换为WebP（quality 94），保留参考照片尺寸和构图；上游副本已缩放。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "laomendong-street",
+      "title": "老门东巷遇",
+      "originalImage": "/assets/collections/volunteer-nanjing/laomendong-street-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / Android existing asset",
+      "sourceFile": "artifacts/product-collectibles/references/laomendong.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Laomendong,_Nanjing.jpg",
+      "author": "钉钉",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceSha256": "9abed77cf98c612840ca0438534b1faa5916dc75a95d6cbb7834e7d0362f242c",
+      "outputSha256": "2b89e9726f6f1178bc5c190ed142b46b0314bafc4a600c9c87423b94654d9d20",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 714886,
+      "modification": "全画幅转换为WebP（quality 94），保留参考照片尺寸和构图；上游副本已缩放。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "zhongshan-green",
+      "title": "钟山绿意",
+      "originalImage": "/assets/collections/volunteer-nanjing/zhongshan-green-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / Android existing asset",
+      "sourceFile": "artifacts/product-collectibles/references/zhongshan.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_Mausoleum,_August_2016.jpg",
+      "author": "Jason Zhang",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceSha256": "fbf53b7865b870c8317413b1c1b2cbb6449f98f09645b28bdbdf50adb5ae2aa3",
+      "outputSha256": "2c55d20b21e1c07b049ad3ce83791d3543a5905f463502e3403b9a1c5683bb1d",
+      "dimensions": [
+        1280,
+        720
+      ],
+      "bytes": 284270,
+      "modification": "全画幅转换为WebP（quality 94），保留参考照片尺寸和构图；上游副本已缩放。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "nanjing-museum",
+      "title": "博物院一日",
+      "originalImage": "/assets/collections/volunteer-nanjing/nanjing-museum-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / Android existing asset",
+      "sourceFile": "artifacts/product-collectibles/references/nanjing-museum.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nanjing_Museum_-_main_building.jpg",
+      "author": "維基小霸王",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceSha256": "2a94ad61c13f4284c667d129c954f6456248fa52eb44aaa4b316491475df8b8f",
+      "outputSha256": "df2770992b5eca3570647e2ad942b03c9a45819e3c4fbf1f6542e96f2de08d9b",
+      "dimensions": [
+        1280,
+        702
+      ],
+      "bytes": 310136,
+      "modification": "全画幅转换为WebP（quality 94），保留参考照片尺寸和构图；上游副本已缩放。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "volunteer-lake",
+      "title": "湖畔有你",
+      "originalImage": "/assets/collections/volunteer-nanjing/volunteer-lake-original.webp",
+      "caption": "玄武湖实景参考 · 陪伴人物为AI创作",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / actual generation reference",
+      "sourceFile": "artifacts/product-collectibles/references/volunteer-lake-reference.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake_Park,_Nanjing_8.jpg",
+      "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Xuanwu_Lake_Park%2C_Nanjing_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "钉钉",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceSha256": "168fe862767c0c7da43a492bb62300eddc8b0b0ddb7d3506ea31cdfbb32937e6",
+      "outputSha256": "147f78b33924b4983057faa210a19cf5071fc6c2f7c3c45883a950d524a85810",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 568828,
+      "modification": "全画幅转换为WebP（quality 94），保留参考照片尺寸和构图。",
+      "generationRelationship": "现有volunteer-lake生成记录使用的真实玄武湖湖岸参考照片；陪伴人物由AI创作，并非原照片中的志愿活动。",
+      "generationRecord": "artifacts/product-collectibles/volunteer-lake.json",
+      "representsProjectActivity": false
+    },
+    {
+      "id": "mingxiaoling",
+      "title": "明孝陵石象",
+      "originalImage": "/assets/collections/volunteer-nanjing/mingxiaoling-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / existing reference",
+      "sourceFile": "artifacts/product-collectibles/references/mingxiaoling-elephants-reference.jpg",
+      "sources": [
+        {
+          "title": "File:Stone Elephant Road (Ming Xiaoling).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Stone_Elephant_Road_(Ming_Xiaoling).jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Stone_Elephant_Road_%28Ming_Xiaoling%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "钉钉",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      ],
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stone_Elephant_Road_(Ming_Xiaoling).jpg",
+      "author": "钉钉",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceSha256": "269463a056252e005ce57bae9341e8a39863fa272d692f743c23d2fb4544b7ad",
+      "outputSha256": "d319cf733c17ed9e7396e55764a0190c44472c1530545938c41495133763885f",
+      "dimensions": [
+        960,
+        720
+      ],
+      "bytes": 457068,
+      "modification": "全画幅转换为WebP（quality 94），保留参考尺寸和构图。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "jiming-temple",
+      "title": "鸡鸣寺望城",
+      "originalImage": "/assets/collections/volunteer-nanjing/jiming-temple-original.webp",
+      "mediaType": "real-photograph",
+      "sourceType": "Wikimedia Commons / existing reference",
+      "sourceFile": "artifacts/product-collectibles/references/jiming-temple-reference.jpg",
+      "sources": [
+        {
+          "title": "File:Jiming Temple.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jiming_Temple.JPG",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Jiming_Temple.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Inhorw",
+          "license": "CC BY-SA 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+        }
+      ],
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jiming_Temple.JPG",
+      "author": "Inhorw",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceSha256": "265aa5b08f0321325193c1d4cf93c13868fa85ab8e8add91e38e82e02f63499f",
+      "outputSha256": "dcce222db2787bbe3d85fae83fada3067f608bc0d5b933e9de2eb646f4d7aded",
+      "dimensions": [
+        960,
+        720
+      ],
+      "bytes": 141020,
+      "modification": "全画幅转换为WebP（quality 94），保留参考尺寸和构图。",
+      "representsProjectActivity": false,
+      "caption": "南京实景照片 · 文创生成参考"
+    },
+    {
+      "id": "nanda-gulou",
+      "title": "南大林荫",
+      "originalImage": "/assets/collections/volunteer-nanjing/nanda-gulou-original.webp",
+      "mediaType": "real-photo-reference-board",
+      "sourceType": "Wikimedia Commons / existing reference",
+      "sourceFile": "artifacts/product-collectibles/references/nanda-gulou-reference.jpg",
+      "sources": [
+        {
+          "title": "File:Nanjing University, Gulou Campus.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nanjing_University,_Gulou_Campus.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Nanjing_University%2C_Gulou_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "FukaiNashi",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        {
+          "title": "File:20231123 Beidalou, Nanjing Daxue.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:20231123_Beidalou,_Nanjing_Daxue.jpg",
+          "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/20231123_Beidalou%2C_Nanjing_Daxue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "author": "Yumeto",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+        }
+      ],
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nanjing_University,_Gulou_Campus.jpg",
+      "author": "FukaiNashi；Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceSha256": "da042976908772d207c4cb57b49edbe704bb48ca141cd8875fcb82c37c2d57e7",
+      "outputSha256": "47e5002817e1936e06c5a323ca34be5654c4c3f262637b9b972b7b46fafbfad6",
+      "dimensions": [
+        1280,
+        960
+      ],
+      "bytes": 439916,
+      "modification": "对应现有两张真实照片参考拼板（左：校园林荫，右：北大楼），保留全部内容；全画幅转换为WebP（quality 94），保留参考尺寸和构图。",
+      "representsProjectActivity": false,
+      "caption": "两张真实照片的生成参考拼板"
+    }
+  ],
+  "count": 12,
+  "totalBytes": 4847396
+}

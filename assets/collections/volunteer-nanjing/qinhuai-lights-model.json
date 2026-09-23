@@ -1,0 +1,76 @@
+{
+  "id": "qinhuai-lights",
+  "title": "秦淮灯影",
+  "kind": "magnet",
+  "algorithm": "instrip-lux3d-relief-1",
+  "source_task_id": "3718387",
+  "source_mesh_sha256": "341e83535945871f39ea44848e740c71fe3475fb4476627ec34851c8ad233bba",
+  "construction": "Lux3D generated geometry projected through the project craft relief pipeline; local silver keyring or rear magnet pads added for product display.",
+  "dimensions": {
+    "units": "mm",
+    "board_width": 74.0,
+    "board_height": 34.568075117370896,
+    "assembly_extents": [
+      74.00000095367432,
+      34.568075090646744,
+      7.010000052154065
+    ],
+    "glb_units": "m",
+    "front": "+Z"
+  },
+  "hole": null,
+  "geometry": {
+    "board_triangles": 50228,
+    "hardware": [
+      {
+        "name": "rear-magnetic-pad-1",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 256
+      },
+      {
+        "name": "rear-magnetic-pad-2",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 256
+      }
+    ]
+  },
+  "checks": {
+    "algorithm": "relief-contour-4-duplex",
+    "finite": true,
+    "triangles": 50228,
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "one_component": true,
+    "flat_back": true,
+    "portrait_enabled": false,
+    "portrait_inside_outline": true,
+    "portrait_flat": true,
+    "width_matches": true,
+    "height_matches": true,
+    "keychain_hole_through": true,
+    "keychain_wall_safe": true,
+    "hole_diameter_mm": null,
+    "hole_minimum_wall_mm": null,
+    "minimum_thickness_mm": 2.5,
+    "self_intersection_check": "single-valued heightfield; disjoint XY cells; positive top/back separation",
+    "requires_slicer_and_physical_proof": true,
+    "warnings": [
+      "需加工方核对细节间距、切片及实体打样；预览颜色不等于打印机颜色。"
+    ],
+    "outline_source": "raw_mesh_front_mask",
+    "preview_mesh_coverage": 1.0,
+    "preview_interior_coverage": 1.0,
+    "preview_edge_tolerance_mm": 0.13028169014084506,
+    "preview_outline_matches": true,
+    "preview_transparent_background": true,
+    "passed": true,
+    "hardware_watertight": true,
+    "glb_geometry_reload_ok": true
+  },
+  "files": {
+    "qinhuai-lights.glb": "e8a4da56d7263820c15426de7268625a75069c9462414e74e7974a80968e093b"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "warm-company",
+  "title": "陪伴的温度",
+  "kind": "magnet",
+  "algorithm": "instrip-lux3d-relief-1",
+  "source_task_id": "3718375",
+  "source_mesh_sha256": "58572ecc203ac26ce4f3c191baac325f4a595da5265f12695ca08d8cb1c51009",
+  "construction": "Lux3D generated geometry projected through the project craft relief pipeline; local silver keyring or rear magnet pads added for product display.",
+  "dimensions": {
+    "units": "mm",
+    "board_width": 74.0,
+    "board_height": 67.58666666666667,
+    "assembly_extents": [
+      74.00000095367432,
+      67.58666783571243,
+      7.010000052154065
+    ],
+    "glb_units": "m",
+    "front": "+Z"
+  },
+  "hole": null,
+  "geometry": {
+    "board_triangles": 95952,
+    "hardware": [
+      {
+        "name": "rear-magnetic-pad-1",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 256
+      },
+      {
+        "name": "rear-magnetic-pad-2",
+        "watertight": true,
+        "positive_volume": true,
+        "triangles": 256
+      }
+    ]
+  },
+  "checks": {
+    "algorithm": "relief-contour-4-duplex",
+    "finite": true,
+    "triangles": 95952,
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "one_component": true,
+    "flat_back": true,
+    "portrait_enabled": false,
+    "portrait_inside_outline": true,
+    "portrait_flat": true,
+    "width_matches": true,
+    "height_matches": true,
+    "keychain_hole_through": true,
+    "keychain_wall_safe": true,
+    "hole_diameter_mm": null,
+    "hole_minimum_wall_mm": null,
+    "minimum_thickness_mm": 2.5,
+    "self_intersection_check": "single-valued heightfield; disjoint XY cells; positive top/back separation",
+    "requires_slicer_and_physical_proof": true,
+    "warnings": [
+      "需加工方核对细节间距、切片及实体打样；预览颜色不等于打印机颜色。"
+    ],
+    "outline_source": "raw_mesh_front_mask",
+    "preview_mesh_coverage": 0.9994932432432433,
+    "preview_interior_coverage": 0.9997868440124483,
+    "preview_edge_tolerance_mm": 0.185,
+    "preview_outline_matches": true,
+    "preview_transparent_background": true,
+    "passed": true,
+    "hardware_watertight": true,
+    "glb_geometry_reload_ok": true
+  },
+  "files": {
+    "warm-company.glb": "15716fa1a14fe9a06e8c3ee1f16185eb6206c97fcc0050ec86c489297498e752"
+  }
+}

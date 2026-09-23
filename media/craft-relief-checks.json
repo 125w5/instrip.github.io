@@ -1,0 +1,32 @@
+{
+  "algorithm": "relief-contour-4-duplex",
+  "finite": true,
+  "triangles": 133632,
+  "watertight": true,
+  "winding_consistent": true,
+  "positive_volume": true,
+  "one_component": true,
+  "flat_back": true,
+  "portrait_enabled": false,
+  "portrait_inside_outline": true,
+  "portrait_flat": true,
+  "width_matches": true,
+  "height_matches": true,
+  "keychain_hole_through": true,
+  "keychain_wall_safe": true,
+  "hole_diameter_mm": 7.279999999999999,
+  "hole_minimum_wall_mm": 2.3619826086956524,
+  "minimum_thickness_mm": 2.5,
+  "self_intersection_check": "single-valued heightfield; disjoint XY cells; positive top/back separation",
+  "requires_slicer_and_physical_proof": true,
+  "warnings": [
+    "需加工方核对细节间距、切片及实体打样；预览颜色不等于打印机颜色。"
+  ],
+  "outline_source": "raw_mesh_front_mask",
+  "preview_mesh_coverage": 0.9844205097087378,
+  "preview_interior_coverage": 0.9999032133178475,
+  "preview_edge_tolerance_mm": 0.14266304347826086,
+  "preview_outline_matches": true,
+  "preview_transparent_background": true,
+  "passed": true
+}
