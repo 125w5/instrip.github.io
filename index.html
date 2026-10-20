@@ -9,12 +9,37 @@
       content="InsTrip 一起游 — AI公益伴游与影像文旅平台。让每一次出发，都有人陪伴、有影像留存、有尊严被看见。"
     />
     <title>一起游 InsTrip · 好风景，一起慢慢看</title>
-    <link rel="icon" type="image/png" href="/instrip.github.io/media/brand-mark.png" />
-    <script type="module" crossorigin src="/instrip.github.io/assets/index-C8izFHhI.js"></script>
-    <link rel="modulepreload" crossorigin href="/instrip.github.io/assets/three-DTwHpmiW.js">
-    <link rel="stylesheet" crossorigin href="/instrip.github.io/assets/index-DaMUygBP.css">
+    <link rel="canonical" href="https://125w5.github.io/instrip.github.io/" />
+    <link rel="icon" type="image/png" href="./media/brand-mark.png" />
+    <style>
+      #site-status { position: fixed; inset: 0; z-index: 10000; display: grid; place-items: center; padding: 24px; overflow: auto; background: #f5f6f2; color: #2d4135; font: 16px/1.8 system-ui, "Microsoft YaHei", sans-serif; }
+      #site-status .status-card { width: min(100%, 560px); margin: auto; }
+      #site-status .status-brand { letter-spacing: .15em; color: #65785d; }
+      #site-status h1 { font-size: clamp(26px, 5vw, 40px); line-height: 1.4; margin: 20px 0; }
+      #site-status p { margin: 16px 0; }
+      #site-status a { color: #365236; text-underline-offset: 4px; overflow-wrap: anywhere; }
+      #site-status .status-actions { display: flex; flex-wrap: wrap; gap: 24px; }
+      #site-status small { display: block; margin-top: 32px; color: #65785d; }
+    </style>
+    <script src="./assets/site-startup.js" defer></script>
+    <script id="app-entry" type="module" crossorigin src="./assets/index-C8izFHhI.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/three-DTwHpmiW.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-DaMUygBP.css">
   </head>
   <body>
+    <section id="site-status" role="status" aria-live="polite" aria-labelledby="status-title">
+      <div class="status-card">
+        <div class="status-brand">一起游 / INSTRIP</div>
+        <h1 id="status-title">好风景，一起慢慢看。</h1>
+        <p id="status-message">正在打开一起游，请稍候。若长时间没有打开，可以重新加载页面。</p>
+        <noscript><p>请在浏览器中启用 JavaScript，以查看完整页面和三维记忆馆。</p></noscript>
+        <div class="status-actions">
+          <a href="./">重新加载页面 →</a>
+          <a href="./archives/YIQIYOU-SOURCES.txt">查看项目介绍 ↗</a>
+        </div>
+        <small>网站地址：<a href="https://125w5.github.io/instrip.github.io/">https://125w5.github.io/instrip.github.io/</a></small>
+      </div>
+    </section>
     <div id="viewport"><div id="stage"></div></div>
   </body>
 </html>
